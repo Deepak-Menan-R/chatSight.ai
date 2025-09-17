@@ -6,6 +6,9 @@ demo.py
 
 # Ignore faiss_index directory (in root)
 faiss_index/
+faiss_index
+.vscode/
+__pycache__/
 
 # Ignore .env file with secrets
 .env
