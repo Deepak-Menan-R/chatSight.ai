@@ -1,0 +1,14 @@
+# Ignore specific file
+demo.py
+
+# Ignore all pickle files
+*.pkl
+
+# Ignore faiss_index directory (in root)
+faiss_index/
+
+# Ignore .env file with secrets
+.env
+
+# Ignore virtual environment
+venv/
